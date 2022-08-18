@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Playfair+Display:wght@500;800&display=swap');
+header { background-image: url('../img/bannertop.png');
+background-position: center top;
+background-repeat: no-repeat; }
+.centrar { display: flex;
+justify-content: center;
+align-items: center; }
+body { background-color: #F2EDE9; }
+h1 { font-family: 'Playfair Display', serif;
+font-size: 35; 
+font-weight: 800;}
+h2 { font-family: 'Lato', sans-serif; 
+font-size: 25;
+font-weight: bold;
+text-transform: uppercase;}
+.titulos { color: #BF8924; 
+text-align: center;}
+footer { font-family: 'Lato', sans-serif; }
+i{ color: #BF8924; }
+.about {color: #D99E6A;;
+font-size: 500;
+line-height: 14px;}
+#soy { font-family: 'Playfair Display', serif;
+color: #BF8924;
+font-size: 35;
+font-weight: 800; 
+text-align: center;} 
+p { font-family: 'Lato', sans-serif;
+font-size: 20;
+font-weight: bold;
+text-align: center; }
